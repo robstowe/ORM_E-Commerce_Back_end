@@ -24,7 +24,7 @@ MIT
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Contribution
-Rob Stowe
+Rob Stowe, Josshy Olea (tutor)
 
 ## Application
 https://drive.google.com/file/d/1z-ZYJir-DkAH05RInMPCtHMY4_K33gzT/view
