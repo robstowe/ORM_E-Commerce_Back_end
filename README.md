@@ -27,7 +27,8 @@ MIT
 Rob Stowe, Josshy Olea (tutor)
 
 ## Application
-https://drive.google.com/file/d/1z-ZYJir-DkAH05RInMPCtHMY4_K33gzT/view
+Full Application - https://drive.google.com/file/d/1z-ZYJir-DkAH05RInMPCtHMY4_K33gzT/view
+Update Products Tab Working - https://drive.google.com/file/d/1fibmxT6apKzEHAZsh5x1JUyL6sNPHu2S/view
 
 ## Testing
 Testing was done for this project via Insomnia. 
